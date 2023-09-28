@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145148361431",
+    "project_id": "convo-b6412",
+    "storage_bucket": "convo-b6412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145148361431:android:4a41279d462ce435bbce92",
+        "android_client_info": {
+          "package_name": "com.sparksplugin.convo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOL5bTkvQnp5-CrLWxdPrcW1Efv2rmOlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
